@@ -18,12 +18,14 @@ The goal of this project is to **learn and experiment with agentic AI systems an
 ChatbotLLM/
 │
 ├── 1 - BasicChatbot/
-│
+│   └── 1-basicchatbot.ipynb
 ├── 2 - HumanAssistance/
 │   └── 2-humanintheloop.ipynb
-│
 ├── 3 - Debugging/
-│
+|   └── .langgraph_api
+│   └── debugging.ipynb
+|   └── agent.py
+|   └── langgraph.json
 ├── .env
 ├── .gitignore
 ├── .python-version
